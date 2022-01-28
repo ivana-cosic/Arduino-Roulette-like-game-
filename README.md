@@ -8,3 +8,5 @@ Each level is a bit harder, because the yellow dot moves a bit faster. There are
 level 1. Additionally, the yellow dot starts its moving randomly somwhere between the first 30 LEDs.
 After the successful stopping, whole LED circle blinks yellow as an indication of a level upgrade. In contrast, after an error, the circle blinks red, and the
 player returns to level 1.
+
+You can see the final look of the game on YT: https://www.youtube.com/watch?v=ZWWBeHa98_0
